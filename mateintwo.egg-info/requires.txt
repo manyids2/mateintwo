@@ -1,0 +1,4 @@
+python-chess
+termcolor
+pandas
+prompt_toolkit

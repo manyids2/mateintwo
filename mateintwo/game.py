@@ -1,11 +1,9 @@
 from pathlib import Path
-from yaml import dump
 import chess
 import chess.pgn
 import chess.uci
 
 from termcolor import colored
-import ulib.pp as pp
 
 BASE_DIR = Path('../data/chess/mates/')
 

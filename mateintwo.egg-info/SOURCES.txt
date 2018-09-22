@@ -1,0 +1,12 @@
+README.md
+setup.py
+mateintwo/__init__.py
+mateintwo/boards.py
+mateintwo/completer.py
+mateintwo/game.py
+mateintwo.egg-info/PKG-INFO
+mateintwo.egg-info/SOURCES.txt
+mateintwo.egg-info/dependency_links.txt
+mateintwo.egg-info/not-zip-safe
+mateintwo.egg-info/requires.txt
+mateintwo.egg-info/top_level.txt
